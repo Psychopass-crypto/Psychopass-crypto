@@ -1,31 +1,27 @@
- <h1>Hello World!🖤💜</h1>
+ <h1>Hello World!🖤</h1>
               
- <h6>(Espacially Github dark mode warriors🤗🏴)</h6>
+ <h6>(If you don't design a point of failure. The system will do it for you.)</h6>
 
- <p>My name is "Oumaima", well it's a pretty long name, so people call me "Raven" instead !<br><p>
+ <p>My name is "Youness", Love Playing with data and Always Enjoy Learning, and people call me "Ksawyoux"  !<br><p>
 
- [<img "https://github.com/Psychopass-crypto/Psychopass-crypto/blob/9b112ca34ff2d64f8d3eca8295f5a51eebc6dffb/Simple%20Black%20and%20White%20Text%20Instagram%20Post.gif"/>]
- (https://github.com/Psychopass-crypto/Psychopass-crypto/blob/9b112ca34ff2d64f8d3eca8295f5a51eebc6dffb/Simple%20Black%20and%20White%20Text%20Instagram%20Post.gif)
+ [<img src="https://github.com/Psychopass-crypto/Psychopass-crypto/blob/main/Simple%20Black%20and%20White%20Text%20Instagram%20Post.gif"/>](https://github.com/Psychopass-crypto/Psychopass-crypto/blob/main/Simple%20Black%20and%20White%20Text%20Instagram%20Post.gif)
+
   
- 
- <!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Oumaimafisaoui&color=00cf00)!-->
- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
- 
+
  <div>
-   <p>I'm an aspiring full stack engineer, and a computer science student at both UoPeople and 1337 💜</p>
+   <p>Welcome y'all. I'm an AI | Business Analyst at AL Akhawayn University In Ifrane</p>
  </div>
    
  <h2>Welcome to my Github account where you will find the folowing topics (and more):</h2>  
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Push_Swap42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Push_swap42)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Mini-Talk-42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Mini-Talk-42)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Get_next_line42&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Get_next_line42/settings)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Minishell-Final&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Minishell-Final))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Psychopass-crypto&repo=IBM_Capstone&theme=dark)](https://github.com/Psychopass-crypto/IBM_Capstone)
+  
    
   <h2>Some of my ondoing projects:</h2>  
-    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Portfolio-Soon-&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Portfolio-Soon-)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oumaimafisaoui&repo=Personal-Blog-Soon&theme=midnight-purple)](https://github.com/Oumaimafisaoui/Personal-Blog-Soon)  
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Psychopass-crypto&repo=Smart_Contract_Using_BlockChain_WithDeepLearning_Technology&theme=dark)](https://github.com/Psychopass-crypto/Smart_Contract_Using_BlockChain_WithDeepLearning_Technology)
+
+ 
 
   <h2>This is a quick look into my favorite coding languages /Stats:</h2>
  
